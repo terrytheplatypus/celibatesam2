@@ -7,3 +7,5 @@ left is jump.
 right is shrink.
 down is move left.
 up is move right.
+
+the bugged out room is if you glitch out of the game because of how badly the correct alignment thing is done.
