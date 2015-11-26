@@ -1,1 +1,1 @@
-# [celibatesam2](http://terrytheplatypus.github.io/celibatesam2/index.swf)
+# [celibatesam2](http://terrytheplatypus.github.io/celibatesam2/index.html)
