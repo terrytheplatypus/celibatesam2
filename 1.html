@@ -2,16 +2,24 @@
   <head>
     <style>
     body {
+      color: darkgray;
       background-color: black;
+    }
+    .box {
+      position: relative;
+      top: 50%;
+      transform: translateY(-50%);
     }
     </style>
   </head>
-  <body>
-    <center>
-      <embed src="1/1.swf" width=600 height=300>
-    </center>
+  <body onload='document.getElementById("game").focus();'>
+    <div class="box">
+      <center>
+        <embed src="1/1.swf" width=600 height=300 id="game">
+      </center>
+    </div>
     <audio autoplay loop>
       <source src="1/tastydeath.wav" type="audio/mpeg">
-     </audio>
+    </audio>
   </body>
 </html>
