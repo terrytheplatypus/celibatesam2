@@ -3,17 +3,30 @@
     <style>
     body {
       font-family: 'Indie Flower', cursive;
+      background: url("index/index.gif");
+      background-size: cover;
+      background-position: center;
+      text-shadow: -1px -1px #fff, 0px -1px #fff, 1px -1px #fff, -1px 0px #fff, 1px 0px #fff, -1px 1px #fff, 0px 1px #fff, 1px 1px #fff;
+      cursor: url("index/cursor.gif"), default;
+    }
+    h1 {
+      font-size: 50px;
+    }
+    h3 {
+      font-size: 20px;
     }
     a:link, a:visited, a:active {
       color: black;
     }
     a:hover {
+      
       font-size: 35px;
       text-decoration: none;
       -webkit-animation-name: linky;
       -webkit-animation-duration: 1s;
       -webkit-animation-iteration-count: infinite;
       -webkit-animation-timing-function: linear;
+      cursor: url("index/cursor.gif"), default;
     }
     .box {
       position: relative;
@@ -26,12 +39,7 @@
       border-style: solid;
       border-color: black;
       border-radius: 5px;
-    }
-    .button:hover {
-      -webkit-animation-name: button;
-      -webkit-animation-duration: 4s;
-      -webkit-animation-iteration-count: infinite;
-      -webkit-animation-timing-function: linear;
+      cursor: url("index/cursor.gif"), default;
     }
     .spin {
       display: inline;
@@ -42,32 +50,31 @@
     }
     @-webkit-keyframes linky {
       0% {
-        color: #066;
+        color: #f00;
+        text-shadow: -1px -1px #0ff, 0px -1px #0ff, 1px -1px #0ff, -1px 0px #0ff, 1px 0px #0ff, -1px 1px #0ff, 0px 1px #0ff, 1px 1px #0ff;
       }
       33% {
-        color: #660;
+        color: #0f0;
+        text-shadow: -1px -1px #f0f, 0px -1px #f0f, 1px -1px #f0f, -1px 0px #f0f, 1px 0px #f0f, -1px 1px #f0f, 0px 1px #f0f, 1px 1px #f0f;
       }
       66% {
-        color: #606;
+        color: #00f;
+        text-shadow: -1px -1px #ff0, 0px -1px #ff0, 1px -1px #ff0, -1px 0px #ff0, 1px 0px #ff0, -1px 1px #ff0, 0px 1px #ff0, 1px 1px #ff0;
       }
       100% {
-        color: #066;
-      }
-    }
-    @-webkit-keyframes button {
-      0% {
-        
+        color: #f00;
+        text-shadow: -1px -1px #0ff, 0px -1px #0ff, 1px -1px #0ff, -1px 0px #0ff, 1px 0px #0ff, -1px 1px #0ff, 0px 1px #0ff, 1px 1px #0ff;
       }
     }
     @-webkit-keyframes spin {
       0% {
-        -webkit-transform: rotate(0deg)
+        -webkit-transform: rotate(0deg);
       }
       50% {
-        -webkit-transform: rotate(180deg)
+        -webkit-transform: rotate(180deg);
       }
       100% {
-        -webkit-transform: rotate(360deg)
+        -webkit-transform: rotate(360deg);
       }
     }
     </style>
@@ -82,9 +89,9 @@
         <br>
         <br>
         <a href="1.html">
-          <div class="shake-crazy">
+          <div class="shake-hard">
             <div class="button">
-              <h2 style="color:white; font-size:30px; text-decoration:none;">PLAY</h2>
+              <h2 style="color:white; font-size:30px; text-decoration:none; text-shadow:none;">PLAY</h2>
             </div>
           </div>
         </a>
