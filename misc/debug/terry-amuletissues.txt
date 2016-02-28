@@ -1,0 +1,24 @@
+the home of cringe ‏@terrytheplatypu  10h10 hours ago
+@muclorty hi, do you maybe know why i'd be getting this error with all Amulet games in chrome on windows 8? http://pastebin.com/xUxeri6Q 
+ Ian MacLarty ‏@muclorty  10h10 hours ago
+@terrytheplatypu Do other webgl pages work? e.g. https://www.shadertoy.com/ 
+ the home of cringe ‏@terrytheplatypu  10h10 hours ago
+@muclorty shadertoy works, but it makes my fan get noticeably louder when i click on one of them (though not super-loud)
+ Ian MacLarty ‏@muclorty  10h10 hours ago
+@terrytheplatypu hmm, ok, does this one work: http://www.amulet.xyz/player.html?gist=c5f70cc0486bfb14b1f7
+ the home of cringe ‏@terrytheplatypu  10h10 hours ago
+@muclorty yeah, that works
+ the home of cringe ‏@terrytheplatypu  9h9 hours ago
+@muclorty except now that i tried it again, it stopped working :P
+maybe i have some virus targeting chrome because it works fine on IE
+ Ian MacLarty ‏@muclorty  9h9 hours ago
+@terrytheplatypu do you have a lot of other tabs open? it could just be not enough video memory maybe?
+ the home of cringe ‏@terrytheplatypu  9h9 hours ago
+@muclorty i closed everything else, and it works fine on IE, so i think maybe it's a virus,
+ the home of cringe ‏@terrytheplatypu  9h9 hours ago
+@muclorty thanks for trying to help
+ Ian MacLarty ‏@muclorty  9h9 hours ago
+@terrytheplatypu not sure if it’s a virus, but it does seem like something to do with chrome and webgl. Is it latest chrome?
+ the home of cringe ‏@terrytheplatypu
+@muclorty yeah, that's what it says
+11:37 AM - 28 Feb 2016
