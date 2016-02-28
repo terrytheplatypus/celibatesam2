@@ -12,3 +12,4 @@
 | Test Flash | [1](http://www.adobe.com/software/flash/about/) |
 | Test HTML5 | [1](https://html5test.com/) |
 | Test Amulet | [1](http://www.amulet.xyz/player.html?gist=3a44405a8346fe4db16f) |
+| Test WebGL | [1](http://webglreport.com/) [2](https://www.khronos.org/registry/webgl/sdk/tests/webgl-conformance-tests.html)
