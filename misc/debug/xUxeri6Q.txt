@@ -1,6 +1,0 @@
-
-Something went wrong.
-See JavaScript console for details.
-Could not create canvas: Web page was not allowed to create a WebGL context.,:(,{"antialias":false,"alpha":false,"depth":true,"stencil":true,"preserveDrawingBuffer":false,"majorVersion":1,"minorVersion":0}
-exception thrown: TypeError: Cannot read property 'pixelStorei' of undefined,TypeError: Cannot read property 'pixelStorei' of undefined
-at _glPixelStorei (http://www.amulet.xyz/amulet.js:1:740722) at zj (http://www.amulet.xyz/amulet.js:5:150667) at qg (http://www.amulet.xyz/amulet.js:5:46894) at Array.Lr (http://www.amulet.xyz/amulet.js:6:64490) at _u (http://www.amulet.xyz/amulet.js:6:137643) at Sy (http://www.amulet.xyz/amulet.js:6:289257) at av (http://www.amulet.xyz/amulet.js:6:141561) at Array.Ws (http://www.amulet.xyz/amulet.js:6:99164) at Object.QE [as dynCall_vii] (http://www.amulet.xyz/amulet.js:8:2422) at invoke_vii (http://www.amulet.xyz/amulet.js:1:746308)
